@@ -7,4 +7,4 @@
 - Saņem temperatūru un attēlu atkarībā no laika
 
 ## Instalācija
-# Project
+My first project
