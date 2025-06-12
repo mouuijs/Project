@@ -3,7 +3,6 @@ import telebot
 import json
 import requests  
 
-bot = telebot.TeleBot('7765096350:AAG_ZsLVnF-sbvKqrhn4I7-MXkRLyIHm6ic')
 # Izveido Telegram bota objektu (šeit jāievieto bota token no BotFather)
 
 API = 'ece18f14b0d7c351b1f78f51761a8957'
